@@ -18,7 +18,7 @@ This is a simple and responsive  Todo List Web Application built using HTML , CS
 - [Mobile View ](image/mobile-view.png)
 
 ## Clone this repository :
-- '''git clone https://github.com/Ashish-gupta2006/todo-list-app.git'''
+- ```git clone https://github.com/Ashish-gupta2006/todo-list-app.git```
 
 ## Live Demo :
 - [Click Here to View Live](https://ashish-gupta2006.github.io/todo-list-app/)
