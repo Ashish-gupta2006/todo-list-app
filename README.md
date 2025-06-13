@@ -1,5 +1,5 @@
 # todo-list-app :
-This is a simple and responsive  Todo List Web Application built using HTML , CSS and JavaScript. 
+A simple To-Do List Web Application built using HTML, CSS, and JavaScript. Allows users to add and delete daily tasks.
 
 # Features :
 - Add Task
